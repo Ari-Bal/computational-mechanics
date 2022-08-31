@@ -33,6 +33,10 @@ But let's also learn a little bit of background.
 
 > Note to Self: Practice Python Material
 
+# Check Below
+
+> Note to Self: Keep Practicing Python Material
+
 +++
 
 ## What is Python?
